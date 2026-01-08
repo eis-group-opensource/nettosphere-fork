@@ -1,0 +1,12 @@
+Copyright 2008-2025 Async-IO.org
+Licensed under the Apache License, Version 2.0 (the "License");
+http://www.apache.org/licenses/LICENSE-2.0
+
+Original project: nettosphere - https://github.com/Atmosphere/nettosphere
+
+------------------------------------------------------------------
+Modifications made by EIS Group:
+- Platform Threading Optimization
+- integrate patched nettosphere, set response initial content type to "text/plain; charset=utf-8"
+
+https://github.com/eis-group-opensource/nettosphere-fork
